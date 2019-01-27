@@ -1,0 +1,216 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="magrelas.com" resolutions="1x" timestamp="1548589051212">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="nosotros.css" crc="359610758" ref="nosotros"/>
+    <file name="index.css" crc="4254871176" ref="index"/>
+    <file name="blog.css" crc="13245393" ref="blog"/>
+    <file name="cont_ctanos.css" crc="310374302" ref="contáctanos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:index:nosotros:blog:contáctanos"/>
+    <file name="museutils.js" crc="3803043152" ref="tablet>index:index:nosotros:blog:contáctanos"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:index:nosotros:blog:contáctanos"/>
+    <file name="museconfig.js" crc="4153641093" ref="tablet>index:index:nosotros:blog:contáctanos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="tablet>index:index:nosotros:blog:contáctanos"/>
+    <file name="require.js" crc="4157109226" ref="tablet>index:index:nosotros:blog:contáctanos"/>
+    <file name="webpro.js" crc="242022427" ref="index:nosotros:contáctanos"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:nosotros:contáctanos"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:nosotros:contáctanos"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:nosotros:contáctanos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:nosotros:blog:contáctanos"/>
+    <file name="form_check.php" crc="147359589" ref="contáctanos"/>
+    <file name="form_throttle.php" crc="93986428" ref="contáctanos"/>
+    <file name="form_process.php" crc="3851993751" ref="contáctanos"/>
+    <file name="form-u1364.php" crc="175808828" ref="contáctanos"/>
+  </folder>
+  <folder name="images">
+    <file name="377.jpg" crc="3765434443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1423-4.png" crc="4139962002" ref="index"/>
+    <file name="bigflower-crop-u451.jpg" crc="415592059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:contáctanos"/>
+    <file name="smallflower-crop-u455.jpg" crc="461879701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leaves-crop-u453.jpg" crc="246971284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:nosotros:contáctanos"/>
+    <file name="22.png" crc="124257051" seo="true" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="ya.png" crc="4279587236" seo="true" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="2.png" crc="101995730" seo="true" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u70-4.png" crc="158327619" ref="index"/>
+    <file name="inicio-capa 1.jpg" crc="3823175392" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="nosotros-capa 3.jpg" crc="435574051" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="nosotros-capa 4.jpg" crc="520776680" ref="index:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="blog-capa 5.jpg" crc="3989453013" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="blog-capa 6.jpg" crc="179526904" ref="index:nosotros:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="pasted image 1152x17.jpg" crc="3799978882" seo="true" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="pasted image 24x73.jpg" crc="489841666" seo="true" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="pasted image 256x112.jpg" crc="4229163885" seo="true" ref="index:nosotros:blog:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="contactanos-capa 1.png" crc="517986049" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contactanos-capa 2.png" crc="528265987" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noche_brillante.jpg" crc="23642768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1452-4.png" crc="134323875" ref="index"/>
+    <file name="leaves.jpg" crc="532919387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leaves-crop-u526.jpg" crc="4253632966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u639-4.png" crc="3845111748" ref="nosotros"/>
+    <file name="inicio-capa 2.jpg" crc="46184984" ref="nosotros:blog:contáctanos">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3802245368" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4076814127" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u838-4.png" crc="4235783466" ref="nosotros"/>
+    <file name="u913-4.png" crc="4280784695" ref="nosotros"/>
+    <file name="u922-4.png" crc="4224281673" ref="nosotros"/>
+    <file name="347124-admin.jpg" crc="3922338280" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="u1040-4.png" crc="3845111748" ref="contáctanos"/>
+    <file name="placa grande-objeto inteligente vectorial.png" crc="461274665" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="placa grande-objeto inteligente vectorial2.png" crc="3928471922" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="u1125-4.png" crc="515899501" ref="contáctanos"/>
+    <file name="300px-flag_of_ecuador_(1900-2009)svg.jpg" crc="147329986" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="200px-flag_of_colombiasvg.png" crc="87552409" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="bandera-de-colombia-hd-colombia-flag-1800x2880-10577.jpg" crc="274691708" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="u1172-4.png" crc="165891117" ref="contáctanos"/>
+    <file name="dos.jpg" crc="84562163" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="uno.jpg" crc="4245365368" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="u1344-4.png" crc="394026927" ref="contáctanos"/>
+    <file name="u1353-4.png" crc="3942590157" ref="contáctanos"/>
+    <file name="u1407-4.png" crc="515899501" ref="contáctanos"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="315114820" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="96231663" seo="true" mt="1492781371473" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="41911822" seo="true" mt="1548589007383" redirect="true"/>
+  <file name="nosotros.html" crc="4257046485" seo="true" mt="1548589007382" redirect="true"/>
+  <file name="blog.html" crc="196849040" seo="true" mt="1548589007385" redirect="true"/>
+  <file name="contáctanos.html" crc="258633838" seo="true" mt="1548589007384" redirect="true"/>
+</manifest>
